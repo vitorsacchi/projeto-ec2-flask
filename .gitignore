@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv / ambiente local
+.venv/
+venv/
+env/
+
+# Pip / cache
+.cache/
+.local/
+
+# SSH (NUNCA subir isso)
+.ssh/
+
+# Shell / usuário
+.bashrc
+.bash_profile
+.bash_logout
+
+# Sistema
+.DS_Store
+
